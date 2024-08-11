@@ -1,0 +1,133 @@
+body {
+    /* background-color: #1F74BA; */
+    background-color: rgb(86, 131, 210);
+    color: #FFF;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contain {
+    background-color: #e9a041;
+    /* background-color: aliceblue; */
+    font-family: cursive;
+    border-radius: 20px;
+    width: 40%;
+    /* height: 50px; */
+    /* margin: 0 auto; */
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+
+.nocont {
+    background-color: aliceblue;
+    border-radius: 5px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.nocont h2 {
+    font-style: normal;
+    color: #0071ce;
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.logo-img {
+    border-radius: 50%;
+    padding: 4px;
+    width: 60px;
+    height: 72px;
+}
+
+.ah {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.ah img.nav-img {
+    width: 35px;
+    height: 35px;
+}
+
+.new-pic {
+    width: 52px;
+    height: 52px;
+     border-radius:25%; 
+    padding-left: 14px;
+    padding-top: 4px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+     width: 100%;
+     height: 620px;
+     /* color: #1F74BA; */
+     /* background-color: #1F74BA; */
+   
+     box-sizing: border-box;
+     border-radius: 21px;
+     padding: 10px;
+     box-sizing: border-box;
+ }
+ 
+ 
+ .flex-item-1 {
+     display: flexbox;
+     
+     width: 60%;
+     height: 100%;
+     background-color: aliceblue;
+     border-radius: 32px;
+     margin-right: 10px;
+     position:relative;
+     overflow:scroll;
+ }
+ 
+ .flex-item-1 img {
+     
+     width: 100%;
+       height:100% ;
+     object-fit: cover;
+     opacity: 0.8;
+ }
+ 
+ .flex-item-1 p {
+     position:absolute;
+ overflow: scroll ;
+     bottom: 10px;
+     left: 10px;
+     color:white;
+     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+     padding: 10px;
+     border-radius: 5px;
+     margin: 0;
+ }
+ 
+ .flex-item-2 {
+     display:flexbox;
+     width:40%;
+     height: 100%;
+     background-color: rgb(82, 83, 84);
+     border-radius: 21px;
+     position:relative;
+ }
+ 
+ .flex-item-2 img {
+    border-radius: 22px;
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+ }
+ 
+ p {
+     padding: 20px;
+     line-height: 1.6;
+     margin: 0;
+ }
