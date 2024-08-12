@@ -1,13 +1,13 @@
 body {
     /* background-color: #1F74BA; */
-    background-color: rgb(86, 131, 210);
+    background-color: rgb(115, 226, 233);
     color: #FFF;
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
 .contain {
-    background-color: #e9a041;
+    background-color:rgb(115, 226, 233);
     /* background-color: aliceblue; */
     font-family: Times new Roman;
     border-radius: 20px;
