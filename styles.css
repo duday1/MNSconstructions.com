@@ -44,7 +44,7 @@ body {
     height: 72px;
 }
 
-.ah {
+/* .ah {
     margin-left: auto;
     display: flex;
     align-items: center;
@@ -63,6 +63,30 @@ body {
     padding-left: 14px;
     padding-top: 4px;
 }
+ */
+/* Container styling for icons */
+.ah {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap; /* Allows icons to wrap within the container */
+    justify-content: center; /* Centers the icons horizontally */
+    max-width: 100%; /* Ensures the container doesn't exceed the div width */
+}
+
+.ah img.nav-img {
+    width: 35px;
+    height: 35px;
+    max-width: 100%; /* Ensures icons do not exceed their container */
+}
+
+/* Styling for the new picture icon */
+.new-pic {
+    width: 52px;
+    height: 52px;
+    border-radius
+
 
 .flex-container {
     display: flex;
