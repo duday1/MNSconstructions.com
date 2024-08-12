@@ -1,7 +1,8 @@
 body {
     /* background-color: #1F74BA; */
-    background-color: #73e3e9;
-    color: #FFF;
+/*     background-color: #73e3e9; */
+    background: radial-gradient(circle,  #bf4aa8 , #e0f7fa,#73e3e9);
+    color: black;
     margin: 0;
     font-family: Arial, sans-serif;
 }
