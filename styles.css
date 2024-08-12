@@ -1,14 +1,14 @@
 body {
     /* background-color: #1F74BA; */
 /*     background-color: #73e3e9; */
-    background: radial-gradient(circle,  #bf4aa8 , #e0f7fa,#73e3e9);
+    background: radial-gradient(circle,  #cce9ed , #65a0a3,#6a8dab);
     color: black;
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
 .contain {
-    background-color:#73e3e9;
+    background-color:#6a8dab;
     /* background-color: aliceblue; */
     font-family: Times new Roman;
     border-radius: 20px;
